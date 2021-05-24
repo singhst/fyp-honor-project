@@ -6,6 +6,8 @@ Please see report and ppt in pdf format.
 2. [Report](https://github.com/singhst/fyp-honor-project/blob/master/fyp_final_report_github_version%2020200921.pdf)
 
 
+**p.s. Much thanks to my supervisor for guiding me on this project.**
+
 # Localization Algorithm Overview
 <img src="img\localization-algorithm-overview.png" style="zoom:50%;" />
 

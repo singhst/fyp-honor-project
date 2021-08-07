@@ -32,3 +32,7 @@ p.s. Smaller LE = more accurate positioning algo
 Localization error reduces to below 100m from 935m.
 
 <img src="img\localization-result-ml-3.png" style="zoom:50%;" />
+
+## Demo video
+
+https://www.youtube.com/watch?v=FMgYVboCPUo

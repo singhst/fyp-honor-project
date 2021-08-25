@@ -1,7 +1,7 @@
 /*
   Final Year Project - RSSI-Based Sigfox Localization by using Machine Learning
   Version 1.0
-  Created by HS Tam
+  Created by HS T.
   December 26, 2019.
 
   Last update on mmmm dd, 201x
